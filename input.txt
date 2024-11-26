@@ -1,0 +1,5 @@
+Hello world
+This is a test file
+We will count the words in this file
+Hello world again
+This is the end
