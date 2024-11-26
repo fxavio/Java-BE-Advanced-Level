@@ -5,7 +5,109 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2cc39af-7328-471b-b19c-9271880fa024" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/dynamicproxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/dynamicproxy/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/dynamicproxy/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/dynamicproxy/PersonInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/javatimeapi/DateTimeAPIExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/JavaIOandNIO/CopyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/JavaIOandNIO/ReadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/JavaIOandNIO/WriteMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/JavaIOandNIO/destination.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/JavaIOandNIO/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/JavaIOandNIO/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/JavaIOandNIO/write.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/JavaMemoryModel/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/JavaMemoryModel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/ParallelMatrixMultiplication/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/ParallelMatrixMultiplication/MatrixMultiplicationTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/ParallelSummation/ParallelSummation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/ParallelSummation/SumTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/executors/ExecutorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/forkjoin/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/forkjoin/ForkJoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/forkjoin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/reflectionandannotations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/reflectionandannotations/MethodInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/reflectionandannotations/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/reflectionandannotations/two/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/reflectionandannotations/two/ParameterValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/reflectionandannotations/two/ValidationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/spark/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab1/spark/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/factoryPattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/factoryPattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/factoryPattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/factoryPattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/factoryPattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/singleto/Checklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/singleto/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/singleto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/singleto/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/BasicUserStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/OtherStrategyPattern/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/OtherStrategyPattern/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/OtherStrategyPattern/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/OtherStrategyPattern/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/OtherStrategyPattern/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/OtherStrategyPattern/StrategyPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/OtherStrategyPattern/Subtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/PremiumUserStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/UserContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/designPatterns/strategyPattern/UserStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/mockito/MockitoBasicExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/mockito/MockitoStaticExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/testng/DependencyExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/testng/TestLifecycleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab2/testng/TestNGExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/functional/ImmutabilityExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/functional/ImmutableCollectionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/functional/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/functional/LambdaInStreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/functional/ParallelStreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/functional/StreamProcessingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/Differences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/PatternMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/record/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/record/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/sealed/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/sealed/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/sealed/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/sealed/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/switchexpression/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/textblocks/Eg2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/java17/textblocks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/reactive/CommonRxJavaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/reactive/RxJavaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab3/reactive/StockPriceMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/concurrency/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/concurrency/ParallelMatrixMultiplication/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/concurrency/ParallelMatrixMultiplication/MatrixMultiplicationTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/concurrency/ParallelSummation/ParallelSummation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/concurrency/ParallelSummation/SumTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/concurrency/executors/ExecutorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/concurrency/forkjoin/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/concurrency/forkjoin/ForkJoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/concurrency/forkjoin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/garbagecollection/GCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/garbagecollection/GCTuningExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/garbagecollection/MemoryLeakExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab4/garbagecollection/WeakReferenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab5/securityandcryptography/AESEncryptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab5/securityandcryptography/DigitalSignatureExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab5/securityandcryptography/MD5HashingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab5/securityandcryptography/RSAEncryptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab5/securityandcryptography/SHA256HashingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab5/spark/CustomerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/javaadvancedlevel/lab5/spark/SparkSqlExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +117,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2pHnHXPnKv2XRBU3XgmxekZIZ2e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,19 +131,120 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CustomerData.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/AcceleratorJava/Java-BE-Advanced-Level/src/main/java/org/javaadvancedlevel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AcceleratorJava\Java-BE-Advanced-Level\src\main\java\org\javaadvancedlevel" />
+      <recent name="D:\AcceleratorJava\Java-BE-Advanced-Level" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RxJavaExample">
+    <configuration name="CustomerData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaadvancedlevel.lab5.spark.CustomerData" />
+      <module name="JavaAdvancedLevel" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/sun.nio.ch=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaadvancedlevel.lab5.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaadvancedlevel.Main" />
+      <module name="JavaAdvancedLevel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaadvancedlevel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RxJavaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaadvancedlevel.lab3.reactive.RxJavaExample" />
+      <module name="JavaAdvancedLevel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaadvancedlevel.lab3.reactive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkSqlExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.javaadvancedlevel.lab5.spark.SparkSqlExample" />
+      <module name="JavaAdvancedLevel" />
+      <option name="VM_PARAMETERS" value="--add-opens java.base/sun.nio.ch=ALL-UNNAMED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.javaadvancedlevel.lab5.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java-BE-Advanced-Level" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java-BE-Advanced-Level" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RxJavaExample" />
+      <item itemvalue="Application.SparkSqlExample" />
+      <item itemvalue="Application.CustomerData" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RxJavaExample" />
+        <item itemvalue="Application.SparkSqlExample" />
+        <item itemvalue="Application.CustomerData" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+        <option value="jdk-21.0.2-corretto-21.0.2-f644763e9732-54352fe9" />
       </set>
     </attachedChunks>
   </component>
@@ -51,6 +257,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732431781587</updated>
       <workItem from="1732431782684" duration="4000" />
+      <workItem from="1732590035077" duration="942000" />
     </task>
     <servers />
   </component>
